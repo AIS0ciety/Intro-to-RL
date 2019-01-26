@@ -14,6 +14,13 @@ Material for Reinforcement Learning Workshop
 - https://www.youtube.com/watch?v=D58nLNLkb0I
 - https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199 This contains summary about every RL Algorithm we will study. 
 - Also follow me I am going to publish a RL blog series. https://medium.com/@ujjwal.9
+
+## Compute Resources
+Signup for https://software.intel.com/en-us/ai-academy/devcloud
+And clone this repo directly into it.
+
+This link https://software.intel.com/en-us/articles/getting-started-with-the-intel-ai-devcloud will help you understand how it works and setup process.
+
 ## Install Requirements: 
 
 **Install python3** and then install requirements using this command
