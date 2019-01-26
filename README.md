@@ -9,7 +9,7 @@ Material for Reinforcement Learning Workshop
 
 **Mine Notes**: I made them while I was studying the concepts of RL. you can refer them for pseudo codes and maths. If you dont understand them just make an issue and I will answer the questions.
 
-**Blogs**: This list of blogs will be updates regularly .. ;)
+**Blogs**: This list of blogs will be updated regularly .. ;)
 - https://blog.openai.com/evolution-strategies/
 - https://www.youtube.com/watch?v=D58nLNLkb0I
 - https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199 This contains summary about every RL Algorithm we will study. 
