@@ -14,7 +14,7 @@ Material for Reinforcement Learning Workshop
 - Also follow me I am also going to publish some blogs on RL. https://medium.com/@ujjwal.9
 ## Install Requirements: 
 
-*Install python3*
+**Install python3** and then install requirements using this command
 
 ```
 pip install -r requirements.txt
