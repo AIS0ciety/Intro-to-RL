@@ -7,7 +7,7 @@ Material for Reinforcement Learning Workshop
 
 **Notes**: This folder has notes used by david silver during his course. We will also be following this.
 
-**Mine Notes**: I made them while I was studying the concepts of RL. you can refer them for pseudo codes and maths. If you dont understand them just make an issue and I will answer the questions.
+**My Notes**: I made them while I was studying the concepts of RL. you can refer them for pseudo codes and maths. If you dont understand them just make an issue and I will answer the questions.
 
 **Blogs**: This list of blogs will be updated regularly .. ;)
 - https://blog.openai.com/evolution-strategies/
