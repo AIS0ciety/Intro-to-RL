@@ -11,7 +11,7 @@ Material for Reinforcement Learning Workshop
 - https://blog.openai.com/evolution-strategies/
 - https://www.youtube.com/watch?v=D58nLNLkb0I
 - https://medium.com/@jonathan_hui/rl-introduction-to-deep-reinforcement-learning-35c25e04c199 This contains summary about every RL Algorithm we will study. 
--
+- Also follow me I am also going to publish some blogs on RL. https://medium.com/@ujjwal.9
 ## Install Requirements: 
 
 *Install python3*
