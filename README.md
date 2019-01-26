@@ -7,6 +7,11 @@ Book : [Reinforcement Learning: An Introduction by Richard Sutton](http://incomp
 
 Notes : This folder has notes used by david silver during his course. We will also be following this.
 
+Blogs: This list of blogs will be updates regularly .. ;)
+- https://blog.openai.com/evolution-strategies/
+- https://www.youtube.com/watch?v=D58nLNLkb0I
+-
+-
 ## Install Requirements: 
 
 *Install python3*
